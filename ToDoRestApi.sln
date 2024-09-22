@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoRestApi", "ToDoRestApi\ToDoRestApi.csproj", "{3954A90E-0619-4241-AE7B-A2917203CA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3954A90E-0619-4241-AE7B-A2917203CA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3954A90E-0619-4241-AE7B-A2917203CA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3954A90E-0619-4241-AE7B-A2917203CA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3954A90E-0619-4241-AE7B-A2917203CA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97DE4013-4650-4D29-A61F-8005209CA9DE}
+	EndGlobalSection
+EndGlobal
